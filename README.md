@@ -5,7 +5,8 @@
     <img height="20" src="https://img.shields.io/twitter/follow/IchikenUsa?style=social" />
   </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichiken-usa&count_private=true)
+<!-- リポジトリステータス -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichiken-usa&theme=vue)
 
-
- 
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiken-usa&layout=compact)](https://github.com/ichiken-usa/)
