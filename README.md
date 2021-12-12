@@ -6,7 +6,7 @@
 <a href="http://twitter.com/ichikenusa">
     <img height="20" src="https://img.shields.io/twitter/follow/ichikenusa?label=Twitter&logo=twitter" />
   </a>
-
+　　
 
 <!--レイアウト調整-->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
