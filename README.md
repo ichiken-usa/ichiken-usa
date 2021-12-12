@@ -7,6 +7,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/ichikenusa?label=Twitter&logo=twitter" />
   </a>
 <br/>
+<br/>
 
 <!--レイアウト調整-->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
