@@ -11,7 +11,7 @@
 
 <!--レイアウト調整-->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichiken-usa&theme=vue" height="220px" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichiken-usa&theme=vue" height="210px" />
 </a>
 <br/>
 <br/>
