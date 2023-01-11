@@ -2,10 +2,6 @@
     <img src="https://komarev.com/ghpvc/?username=ichiken-usa" alt="ichiken-usa" />
   </a>
 
-<!-- Twitter -->
-<a href="http://twitter.com/ichikenusa">
-    <img height="20" src="https://img.shields.io/twitter/follow/ichikenusa?label=Twitter&logo=twitter" />
-  </a>
 <br/>
 <br/>
 
